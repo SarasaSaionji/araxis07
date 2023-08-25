@@ -1,9 +1,7 @@
-💮 パウォーンプラット💮 
-🇹🇭 泰日工業大学の学生🇯🇵 
-IT 21 プログラマーです。🖥️
-💪 自分の可能性を解放する新しい経験を見つけたい。💪 
-🌏 標語  この世界で最も価値のあるものは自分自身です。♥️ 
+About meMy name is Pavornprat Mokarat you can call me Aon. I'm a Programmer I'm studying at the Thai-Nichi Institute of Technology University. I want to find new experiences that unlock my potential. Motto: The most valuable thing in this world is yourself.
 
+In my free time, I like to...
+listen music and learn about japanese language.
 <!---
 araxis07/araxis07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
